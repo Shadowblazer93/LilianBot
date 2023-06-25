@@ -22,7 +22,7 @@ module.exports = {
 
         var opts = {
             maxResults: 1,
-            key: 'AIzaSyDI6bAfzBuHpadNi2VU09OYNF_heJVY9nI',
+            key: 'YT_KEY',
             safeSearch: 'strict'
           };
 
